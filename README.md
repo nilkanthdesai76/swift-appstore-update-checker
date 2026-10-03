@@ -1,5 +1,6 @@
 # AppStoreUpdateChecker 📲
 
+[![CI](https://github.com/nilkanthdesai76/swift-appstore-update-checker/actions/workflows/ci.yml/badge.svg)](https://github.com/nilkanthdesai76/swift-appstore-update-checker/actions)
 A lightweight, privacy-focused Swift package for iOS & macOS that queries Apple's official iTunes Search API to detect newer App Store releases and present native SwiftUI update prompts.
 
 [![Swift](https://img.shields.io/badge/Swift-5.9%20%7C%206.0-orange?style=flat-square&logo=swift)](https://swift.org)
